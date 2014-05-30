@@ -1,5 +1,10 @@
 # Redis Alfred Workflow
 
+Manage instance of Redis key/value DB with Alfred 2 (Up and Down Service)
+
+## Screenshot
+![redis workflow](http://cl.ly/image/3e021t2W101F/Screen%20Shot%202014-05-29%20at%2020.22.42.png "Redis Alfred Workflow")
+
 ## How to install
 
 Download package in this [link](https://github.com/gabamnml/redis-alfred-workflow/raw/master/Manage-Redis-Server.alfredworkflow)
